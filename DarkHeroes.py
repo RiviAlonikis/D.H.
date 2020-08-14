@@ -1,4 +1,3 @@
 cat >DarkHeroes.py
 str = 'D.H. (Dark Heroes) - это коллектив без цели, который настроен на новые знакомства, развлечения, распространение аббревиатуры и т.п.'
 print (str)
-python DarkHeroes.py
